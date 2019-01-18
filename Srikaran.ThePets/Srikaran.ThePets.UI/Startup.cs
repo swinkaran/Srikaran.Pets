@@ -25,7 +25,10 @@ namespace Srikaran.ThePets.UI
         {
             // DI configuration
             services.Add(new ServiceDescriptor(typeof(IQueriesService), typeof(QueriesService), ServiceLifetime.Transient));
-            
+
+            // Queries service - inject the Json filepath
+            services.AddScoped<IQueriesService>(c => new QueriesService(@"Services\QueriesService\Data\Pet.json"));
+
             services.AddMvc();
         }
 

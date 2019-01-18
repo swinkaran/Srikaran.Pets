@@ -12,10 +12,11 @@ namespace Srikaran.ThePets.Services.QueriesService
     public class QueriesService : IQueriesService
     {
         private static IList<Owner> AllOwnersWithPets { get; set; }
-
-        public QueriesService()
+        private static string Filepath{get; set;}
+        
+        public QueriesService(string _filePath)
         {
-            AllOwnersWithPets = JsonConvert.DeserializeObject<IList<Owner>>(File.ReadAllText(@"C:\Users\Broswebs-Desk\Documents\Pet.json"));
+            AllOwnersWithPets = JsonConvert.DeserializeObject<IList<Owner>>(File.ReadAllText(_filePath));
         }
 
         public async Task<IEnumerable<PetsByOwnersGender>> GetPetsByTypeAsync(string type)
@@ -43,8 +44,10 @@ namespace Srikaran.ThePets.Services.QueriesService
         #region Extensions
         public IList<string> GetPetsByOwnerGender(string gender, string type, IList<Owner> OwnerWithPets)
         {
-            return OwnerWithPets.Where(o => o.Gender.Equals(gender)) // Filter tthe collection by gender
+            IList<string> pets = OwnerWithPets.Where(o => o.Gender.Equals(gender)) // Filter tthe collection by gender
                 .SelectMany(s => s.Pets.Where(p => p.Type.Equals(type, StringComparison.CurrentCultureIgnoreCase)).Select(c => c.Name)).ToList();
+
+            return pets.OrderBy(p => p).ToList();
         }
         #endregion
     }

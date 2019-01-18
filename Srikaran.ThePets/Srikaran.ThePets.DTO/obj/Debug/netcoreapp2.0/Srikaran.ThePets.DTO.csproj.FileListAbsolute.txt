@@ -6,3 +6,12 @@ C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Srikaran.ThePets\Sr
 C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Srikaran.ThePets\Srikaran.ThePets.DTO\obj\Debug\netcoreapp2.0\Srikaran.ThePets.DTO.AssemblyInfo.cs
 C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Srikaran.ThePets\Srikaran.ThePets.DTO\obj\Debug\netcoreapp2.0\Srikaran.ThePets.DTO.dll
 C:\Users\Broswebs-Desk\Documents\Visual Studio 2017\Projects\Srikaran.ThePets\Srikaran.ThePets.DTO\obj\Debug\netcoreapp2.0\Srikaran.ThePets.DTO.pdb
+C:\Users\Broswebs-Desk\Documents\GitHub\Srikaran.Pets\Srikaran.ThePets\Srikaran.ThePets.DTO\bin\Debug\netcoreapp2.0\Srikaran.ThePets.DTO.deps.json
+C:\Users\Broswebs-Desk\Documents\GitHub\Srikaran.Pets\Srikaran.ThePets\Srikaran.ThePets.DTO\bin\Debug\netcoreapp2.0\Srikaran.ThePets.DTO.dll
+C:\Users\Broswebs-Desk\Documents\GitHub\Srikaran.Pets\Srikaran.ThePets\Srikaran.ThePets.DTO\bin\Debug\netcoreapp2.0\Srikaran.ThePets.DTO.pdb
+C:\Users\Broswebs-Desk\Documents\GitHub\Srikaran.Pets\Srikaran.ThePets\Srikaran.ThePets.DTO\obj\Debug\netcoreapp2.0\Srikaran.ThePets.DTO.csprojAssemblyReference.cache
+C:\Users\Broswebs-Desk\Documents\GitHub\Srikaran.Pets\Srikaran.ThePets\Srikaran.ThePets.DTO\obj\Debug\netcoreapp2.0\Srikaran.ThePets.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Broswebs-Desk\Documents\GitHub\Srikaran.Pets\Srikaran.ThePets\Srikaran.ThePets.DTO\obj\Debug\netcoreapp2.0\Srikaran.ThePets.DTO.AssemblyInfoInputs.cache
+C:\Users\Broswebs-Desk\Documents\GitHub\Srikaran.Pets\Srikaran.ThePets\Srikaran.ThePets.DTO\obj\Debug\netcoreapp2.0\Srikaran.ThePets.DTO.AssemblyInfo.cs
+C:\Users\Broswebs-Desk\Documents\GitHub\Srikaran.Pets\Srikaran.ThePets\Srikaran.ThePets.DTO\obj\Debug\netcoreapp2.0\Srikaran.ThePets.DTO.dll
+C:\Users\Broswebs-Desk\Documents\GitHub\Srikaran.Pets\Srikaran.ThePets\Srikaran.ThePets.DTO\obj\Debug\netcoreapp2.0\Srikaran.ThePets.DTO.pdb

@@ -13765,11 +13765,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Broswebs-Desk\\Documents\\Visual Studio 2017\\Projects\\Srikaran.ThePets\\Srikaran.ThePets.Tests\\Srikaran.ThePets.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Broswebs-Desk\\Documents\\GitHub\\Srikaran.Pets\\Srikaran.ThePets\\Srikaran.ThePets.Tests\\Srikaran.ThePets.Tests.csproj",
       "projectName": "Srikaran.ThePets.Tests",
-      "projectPath": "C:\\Users\\Broswebs-Desk\\Documents\\Visual Studio 2017\\Projects\\Srikaran.ThePets\\Srikaran.ThePets.Tests\\Srikaran.ThePets.Tests.csproj",
+      "projectPath": "C:\\Users\\Broswebs-Desk\\Documents\\GitHub\\Srikaran.Pets\\Srikaran.ThePets\\Srikaran.ThePets.Tests\\Srikaran.ThePets.Tests.csproj",
       "packagesPath": "C:\\Users\\Broswebs-Desk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Broswebs-Desk\\Documents\\Visual Studio 2017\\Projects\\Srikaran.ThePets\\Srikaran.ThePets.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Broswebs-Desk\\Documents\\GitHub\\Srikaran.Pets\\Srikaran.ThePets\\Srikaran.ThePets.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13788,11 +13788,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Broswebs-Desk\\Documents\\Visual Studio 2017\\Projects\\Srikaran.ThePets\\Srikaran.ThePets.DTO\\Srikaran.ThePets.DTO.csproj": {
-              "projectPath": "C:\\Users\\Broswebs-Desk\\Documents\\Visual Studio 2017\\Projects\\Srikaran.ThePets\\Srikaran.ThePets.DTO\\Srikaran.ThePets.DTO.csproj"
+            "C:\\Users\\Broswebs-Desk\\Documents\\GitHub\\Srikaran.Pets\\Srikaran.ThePets\\Srikaran.ThePets.DTO\\Srikaran.ThePets.DTO.csproj": {
+              "projectPath": "C:\\Users\\Broswebs-Desk\\Documents\\GitHub\\Srikaran.Pets\\Srikaran.ThePets\\Srikaran.ThePets.DTO\\Srikaran.ThePets.DTO.csproj"
             },
-            "C:\\Users\\Broswebs-Desk\\Documents\\Visual Studio 2017\\Projects\\Srikaran.ThePets\\Srikaran.ThePets.UI\\Srikaran.ThePets.UI.csproj": {
-              "projectPath": "C:\\Users\\Broswebs-Desk\\Documents\\Visual Studio 2017\\Projects\\Srikaran.ThePets\\Srikaran.ThePets.UI\\Srikaran.ThePets.UI.csproj"
+            "C:\\Users\\Broswebs-Desk\\Documents\\GitHub\\Srikaran.Pets\\Srikaran.ThePets\\Srikaran.ThePets.UI\\Srikaran.ThePets.UI.csproj": {
+              "projectPath": "C:\\Users\\Broswebs-Desk\\Documents\\GitHub\\Srikaran.Pets\\Srikaran.ThePets\\Srikaran.ThePets.UI\\Srikaran.ThePets.UI.csproj"
             }
           }
         }

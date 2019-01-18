@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Broswebs-Desk\\Documents\\Visual Studio 2017\\Projects\\Srikaran.ThePets\\Srikaran.ThePets.DTO\\Srikaran.ThePets.DTO.csproj",
+      "projectUniqueName": "C:\\Users\\Broswebs-Desk\\Documents\\GitHub\\Srikaran.Pets\\Srikaran.ThePets\\Srikaran.ThePets.DTO\\Srikaran.ThePets.DTO.csproj",
       "projectName": "Srikaran.ThePets.DTO",
-      "projectPath": "C:\\Users\\Broswebs-Desk\\Documents\\Visual Studio 2017\\Projects\\Srikaran.ThePets\\Srikaran.ThePets.DTO\\Srikaran.ThePets.DTO.csproj",
+      "projectPath": "C:\\Users\\Broswebs-Desk\\Documents\\GitHub\\Srikaran.Pets\\Srikaran.ThePets\\Srikaran.ThePets.DTO\\Srikaran.ThePets.DTO.csproj",
       "packagesPath": "C:\\Users\\Broswebs-Desk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Broswebs-Desk\\Documents\\Visual Studio 2017\\Projects\\Srikaran.ThePets\\Srikaran.ThePets.DTO\\obj\\",
+      "outputPath": "C:\\Users\\Broswebs-Desk\\Documents\\GitHub\\Srikaran.Pets\\Srikaran.ThePets\\Srikaran.ThePets.DTO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
