@@ -1,0 +1,12 @@
+﻿
+<div class="jumbotron">
+    <h1 class="display-4">List of Pets by Owner's gender</h1>
+    <hr class="my-4">
+</div>
+
+<div *ngFor="let ow of ownerPets">
+    <h3 class="display-4">{{ow.gender}}</h3>
+    <div *ngFor="let p of ow.pets">
+        <h3 class="display-4">{{p}}</h3>
+    </div>
+</div>
