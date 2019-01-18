@@ -7,8 +7,6 @@ import { RouterModule } from '@angular/router';
 import { AppComponent } from './components/app/app.component';
 import { NavMenuComponent } from './components/navmenu/navmenu.component';
 import { HomeComponent } from './components/home/home.component';
-import { FetchDataComponent } from './components/fetchdata/fetchdata.component';
-import { CounterComponent } from './components/counter/counter.component';
 
 import { PetsComponent } from './components/pets/pets.component';
 
@@ -17,8 +15,6 @@ import { PetsComponent } from './components/pets/pets.component';
         AppComponent,
         NavMenuComponent,
         PetsComponent,
-        CounterComponent,
-        FetchDataComponent,
         HomeComponent
     ],
     imports: [
@@ -29,8 +25,6 @@ import { PetsComponent } from './components/pets/pets.component';
             { path: '', redirectTo: 'home', pathMatch: 'full' },
             { path: 'home', component: PetsComponent },
             { path: 'pets', component: PetsComponent },
-            { path: 'counter', component: CounterComponent },
-            { path: 'fetch-data', component: FetchDataComponent },
             { path: '**', redirectTo: 'home' }
         ])
     ]

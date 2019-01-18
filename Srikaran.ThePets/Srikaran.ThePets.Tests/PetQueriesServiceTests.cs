@@ -15,7 +15,8 @@ namespace Srikaran.ThePets.Tests
 
         public PetQueriesServiceTests()
         {
-            _IQueriesService = new QueriesService(@"C:\Users\Broswebs-Desk\Documents\Pet.json");
+            //Mock data file
+            _IQueriesService = new QueriesService(@"Pet.json");
         }
 
         [SetUp]
